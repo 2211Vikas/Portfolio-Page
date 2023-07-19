@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Page/static/css/main.fddd93dc.css",
+    "main.js": "/Portfolio-Page/static/js/main.ea33a434.js",
+    "static/media/Python_with_Data_Science.jpg": "/Portfolio-Page/static/media/Python_with_Data_Science.ede78dcaee3f51400207.jpg",
+    "static/media/Profile (2).jpg": "/Portfolio-Page/static/media/Profile (2).59656f3295fb6ebf5455.jpg",
+    "static/media/Netflix-Clone.jpg": "/Portfolio-Page/static/media/Netflix-Clone.fd9c97a6f78d8eb988fe.jpg",
+    "static/media/Advanecd_Java.jpg": "/Portfolio-Page/static/media/Advanecd_Java.c04574e47c2ce996c220.jpg",
+    "static/media/Front_End_Development_2.0.jpg": "/Portfolio-Page/static/media/Front_End_Development_2.0.de54a51c23e823e933cd.jpg",
+    "static/media/Intro_to_Java_2.0.jpg": "/Portfolio-Page/static/media/Intro_to_Java_2.0.4359b2c18df2927f9250.jpg",
+    "static/media/Practical_JavaScript.jpg": "/Portfolio-Page/static/media/Practical_JavaScript.f02553fbf5893f2ebe66.jpg",
+    "static/media/Reactjs.jpg": "/Portfolio-Page/static/media/Reactjs.e9fdb9b220def18efda3.jpg",
+    "static/media/Expense Tracker.jpg": "/Portfolio-Page/static/media/Expense Tracker.87ae66ace17c2c22ada8.jpg",
+    "static/media/Vikas's Resume.pdf": "/Portfolio-Page/static/media/Vikas's Resume.38831478b3439cd609d9.pdf",
+    "static/media/Quiz-App.jpg": "/Portfolio-Page/static/media/Quiz-App.9b258cc7b9d1ad6c662b.jpg",
+    "index.html": "/Portfolio-Page/index.html",
+    "main.fddd93dc.css.map": "/Portfolio-Page/static/css/main.fddd93dc.css.map",
+    "main.ea33a434.js.map": "/Portfolio-Page/static/js/main.ea33a434.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fddd93dc.css",
+    "static/js/main.ea33a434.js"
+  ]
+}
