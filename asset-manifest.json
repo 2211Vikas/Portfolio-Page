@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-Page/static/css/main.fddd93dc.css",
-    "main.js": "/Portfolio-Page/static/js/main.b789d48d.js",
+    "main.css": "/Portfolio-Page/static/css/main.eabaf63b.css",
+    "main.js": "/Portfolio-Page/static/js/main.7b6b29c9.js",
     "static/media/Python_with_Data_Science.jpg": "/Portfolio-Page/static/media/Python_with_Data_Science.ede78dcaee3f51400207.jpg",
     "static/media/Profile (2).jpg": "/Portfolio-Page/static/media/Profile (2).59656f3295fb6ebf5455.jpg",
     "static/media/Netflix-Clone.jpg": "/Portfolio-Page/static/media/Netflix-Clone.fd9c97a6f78d8eb988fe.jpg",
@@ -16,11 +16,11 @@
     "static/media/Vikas's Resume.pdf": "/Portfolio-Page/static/media/Vikas's Resume.38831478b3439cd609d9.pdf",
     "static/media/Quiz-App.jpg": "/Portfolio-Page/static/media/Quiz-App.9b258cc7b9d1ad6c662b.jpg",
     "index.html": "/Portfolio-Page/index.html",
-    "main.fddd93dc.css.map": "/Portfolio-Page/static/css/main.fddd93dc.css.map",
-    "main.b789d48d.js.map": "/Portfolio-Page/static/js/main.b789d48d.js.map"
+    "main.eabaf63b.css.map": "/Portfolio-Page/static/css/main.eabaf63b.css.map",
+    "main.7b6b29c9.js.map": "/Portfolio-Page/static/js/main.7b6b29c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.fddd93dc.css",
-    "static/js/main.b789d48d.js"
+    "static/css/main.eabaf63b.css",
+    "static/js/main.7b6b29c9.js"
   ]
 }
