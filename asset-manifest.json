@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "/Portfolio-Page/static/css/main.473c2976.css",
-    "main.js": "/Portfolio-Page/static/js/main.3f3a1a02.js",
+    "main.js": "/Portfolio-Page/static/js/main.6084048d.js",
     "static/media/Python_with_Data_Science.jpg": "/Portfolio-Page/static/media/Python_with_Data_Science.ede78dcaee3f51400207.jpg",
     "static/media/Profile (2).jpg": "/Portfolio-Page/static/media/Profile (2).59656f3295fb6ebf5455.jpg",
     "static/media/Netflix-Clone.jpg": "/Portfolio-Page/static/media/Netflix-Clone.fd9c97a6f78d8eb988fe.jpg",
     "static/media/Advanecd_Java.jpg": "/Portfolio-Page/static/media/Advanecd_Java.c04574e47c2ce996c220.jpg",
+    "static/media/Js and DS by freeCodeCamp.jpg": "/Portfolio-Page/static/media/Js and DS by freeCodeCamp.33b12efed0afee5f432f.jpg",
+    "static/media/Responsive Web Design by freeCodeCamp.jpg": "/Portfolio-Page/static/media/Responsive Web Design by freeCodeCamp.4c9be43dcfee1da92641.jpg",
     "static/media/NSDC.jpg": "/Portfolio-Page/static/media/NSDC.434edeb233136d3dc5b6.jpg",
     "static/media/Expense Tracker.jpg": "/Portfolio-Page/static/media/Expense Tracker.87ae66ace17c2c22ada8.jpg",
     "static/media/Password-Generator.jpg": "/Portfolio-Page/static/media/Password-Generator.b4d3978092e91f7a6074.jpg",
@@ -14,10 +16,10 @@
     "static/media/Quiz-App.jpg": "/Portfolio-Page/static/media/Quiz-App.9b258cc7b9d1ad6c662b.jpg",
     "index.html": "/Portfolio-Page/index.html",
     "main.473c2976.css.map": "/Portfolio-Page/static/css/main.473c2976.css.map",
-    "main.3f3a1a02.js.map": "/Portfolio-Page/static/js/main.3f3a1a02.js.map"
+    "main.6084048d.js.map": "/Portfolio-Page/static/js/main.6084048d.js.map"
   },
   "entrypoints": [
     "static/css/main.473c2976.css",
-    "static/js/main.3f3a1a02.js"
+    "static/js/main.6084048d.js"
   ]
 }
