@@ -1,26 +1,23 @@
 {
   "files": {
     "main.css": "/Portfolio-Page/static/css/main.473c2976.css",
-    "main.js": "/Portfolio-Page/static/js/main.1ab0c0a2.js",
+    "main.js": "/Portfolio-Page/static/js/main.3f3a1a02.js",
     "static/media/Python_with_Data_Science.jpg": "/Portfolio-Page/static/media/Python_with_Data_Science.ede78dcaee3f51400207.jpg",
     "static/media/Profile (2).jpg": "/Portfolio-Page/static/media/Profile (2).59656f3295fb6ebf5455.jpg",
     "static/media/Netflix-Clone.jpg": "/Portfolio-Page/static/media/Netflix-Clone.fd9c97a6f78d8eb988fe.jpg",
     "static/media/Advanecd_Java.jpg": "/Portfolio-Page/static/media/Advanecd_Java.c04574e47c2ce996c220.jpg",
-    "static/media/Front_End_Development_2.0.jpg": "/Portfolio-Page/static/media/Front_End_Development_2.0.de54a51c23e823e933cd.jpg",
-    "static/media/Intro_to_Java_2.0.jpg": "/Portfolio-Page/static/media/Intro_to_Java_2.0.4359b2c18df2927f9250.jpg",
-    "static/media/Practical_JavaScript.jpg": "/Portfolio-Page/static/media/Practical_JavaScript.f02553fbf5893f2ebe66.jpg",
-    "static/media/FSD_Internship.jpg": "/Portfolio-Page/static/media/FSD_Internship.1a27480452074b0de931.jpg",
-    "static/media/Reactjs.jpg": "/Portfolio-Page/static/media/Reactjs.e9fdb9b220def18efda3.jpg",
+    "static/media/NSDC.jpg": "/Portfolio-Page/static/media/NSDC.434edeb233136d3dc5b6.jpg",
     "static/media/Expense Tracker.jpg": "/Portfolio-Page/static/media/Expense Tracker.87ae66ace17c2c22ada8.jpg",
     "static/media/Password-Generator.jpg": "/Portfolio-Page/static/media/Password-Generator.b4d3978092e91f7a6074.jpg",
+    "static/media/Internshala certificates.jpg": "/Portfolio-Page/static/media/Internshala certificates.ab2b2f353baf09cc0760.jpg",
     "static/media/Vikas's Resume.pdf": "/Portfolio-Page/static/media/Vikas's Resume.38831478b3439cd609d9.pdf",
     "static/media/Quiz-App.jpg": "/Portfolio-Page/static/media/Quiz-App.9b258cc7b9d1ad6c662b.jpg",
     "index.html": "/Portfolio-Page/index.html",
     "main.473c2976.css.map": "/Portfolio-Page/static/css/main.473c2976.css.map",
-    "main.1ab0c0a2.js.map": "/Portfolio-Page/static/js/main.1ab0c0a2.js.map"
+    "main.3f3a1a02.js.map": "/Portfolio-Page/static/js/main.3f3a1a02.js.map"
   },
   "entrypoints": [
     "static/css/main.473c2976.css",
-    "static/js/main.1ab0c0a2.js"
+    "static/js/main.3f3a1a02.js"
   ]
 }
